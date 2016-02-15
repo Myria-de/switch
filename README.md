@@ -1,5 +1,5 @@
 # switch
-incron switch demo in Verbindung mit einerm Ifttt-Ereignis.
+Incron Switch Demo in Verbindung mit einem Ifttt-Ereignis (www.ifttt.com)
 
 Kopieren Sie switch.sh in Ihr Home-Verzeichnis und machen Sie das Script mit 
 
